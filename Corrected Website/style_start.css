@@ -1,0 +1,52 @@
+body {
+	#Font type sans-serif
+	#Font size 14 pixels
+}
+h1, h2 {
+	#Font type serif 
+	#Thin gray border only on bottom
+}
+a {
+	#Remove underlined hyperlinks
+}
+.italic {
+	#Italicize text
+}
+.contents {
+	#Thin gray border 
+	#Light-colored background
+	#Change width to fit around text
+}
+.contents ul {
+	#Remove bullets
+	#Remove padding to shift text to the left
+}
+table {
+	#Width of 500 pixels
+	#Center the table using margin
+}
+table, th, td {
+	#Thin black border
+	#How do you make the borders one thin line instead of two?
+}
+th {
+	#Medium-colored background
+}
+td {
+	#Light-colored background
+}
+caption {
+	#Make this bold
+}
+.gallery {
+	#Remove bullets
+}
+.gallerybox {
+	#Display horizontally using the display property
+	#Width of 220 pixels
+	#Align the divs by the top of each picture
+}
+.gallerythumb img {
+	#Width of 200 pixels
+	#Height of 100 pixels
+}
